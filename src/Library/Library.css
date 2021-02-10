@@ -1,0 +1,17 @@
+.Libary{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.data_list{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: start;
+    padding: 0 100px;
+    padding-top: 50px;
+    min-width: 100%;
+}

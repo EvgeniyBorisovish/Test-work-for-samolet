@@ -1,0 +1,22 @@
+.mainConteiner-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: stretch;
+    min-width: 500px;
+    min-height: 500px;
+    cursor: pointer;
+}
+.mainConteiner-list_bacgroundColor-none{
+    background-color: inherit;
+}
+.mainConteiner-list-table{
+    padding-top: 20px;
+}
+.mainConteiner-list__spin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: #f3f7fa;
+}
