@@ -1,5 +1,5 @@
 
-Демо — 
+Демо — https://test-work-for-samolet-5tamrr2v8.vercel.app/
 
 Написать SPA показывающее статистическую информацию по библиотекам в регионах. Для этого использовать открытые данные: https://data.gov.ru/opendata/7705851331-statlibrary (уже подключено в виде API)
 
